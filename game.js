@@ -4,7 +4,11 @@
 //
 
 KEY_CODES = {
+<<<<<<< HEAD
   16: 'space',
+=======
+  32: 'space',
+>>>>>>> ChangingMoveKeys
   65: 'left',
   87: 'up',
   68: 'right',
